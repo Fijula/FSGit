@@ -1,2 +1,3 @@
 Commit c1 under main
 Commit c2 under main
+Commit c3 under b1 branch
